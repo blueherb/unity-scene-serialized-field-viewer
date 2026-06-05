@@ -1,6 +1,6 @@
 # Scene Reference Map for Unity
 
-[한국어 설명](https://github.com/blueherb/unity-scene-serialized-field-viewer/edit/main/README.ko.md)
+[한국어 설명](https://github.com/blueherb/unity-scene-serialized-field-viewer/blob/main/README.ko.md)
 
 
 <img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/da3b1e0d-b6ad-4f61-9ab2-0625e3540c19" />
